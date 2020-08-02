@@ -13,7 +13,7 @@ With an AR app, people can place a bookshelf in their rooms using only a few tap
 ## Prerequisites
 <p>A Android phone which supports <b>Google Play Services for AR<b>.</p>
  
- Click [Here](https://developers.google.com/ar/discover/supported-devices) to chechk the device.
+ Click [Here](https://developers.google.com/ar/discover/supported-devices) to check the device.
   
 ## Installation
 
