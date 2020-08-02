@@ -9,3 +9,13 @@ With an AR app, people can place a bookshelf in their rooms using only a few tap
 
 ## Screen Shots:iphone:
 <img src="https://github.com/Arunkumarvallal/Arfurniture/blob/master/Screen%20Shots/Screenshot_20200315-123204.png" width="1080" height="400"/>
+
+## Prerequisites
+<p>A Android phone which supports <b>Google Play Services for AR<b>.</p>
+ Click [Here](https://developers.google.com/ar/discover/supported-devices) to chechk the device.
+  
+## Installation
+
+1. Download Demo.apk.
+2. Install in Android phone (ARCore supported Phone).
+3. Enjoy the application.
