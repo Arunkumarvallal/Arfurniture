@@ -8,4 +8,4 @@ Augmented Reality is a fine tool for personalization of customer needs, especial
 With an AR app, people can place a bookshelf in their rooms using only a few taps on a phone. In other words, they could visualize how a sofa would look in brown or red color. The risk of product-return and logistical expenses will be minimized. The application offers an immersive preview of the furniture, customizable to the spatial real world.
 
 ## Screen Shots
-<img src="https://github.com/Arunkumarvallal/Arfurniture/blob/master/Screen%20Shots/Screenshot_20200315-123204.png" width="600" height="500"/>
+<img src="https://github.com/Arunkumarvallal/Arfurniture/blob/master/Screen%20Shots/Screenshot_20200315-123204.png" width="1200" height="400"/>
