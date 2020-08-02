@@ -1,4 +1,4 @@
-### Furniture Application using Augmented Reality
+# Furniture Application using Augmented Reality
 The application provides a real-time experience for the user while purchasing furniture. Augmented Reality mobile application developed using ARCore SDK. This application projects furniture or décor in 3D at full-scale, and anchors them to the floor. This lets shoppers to see if the object in question fits in the room without needing to break out the measuring tape. 
 
 ## Description
